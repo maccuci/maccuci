@@ -1,8 +1,10 @@
-## Developer since 2015 💻
+# Antônio Gabriel
 
-Hi there, I'm Backend developer
+Developer Backend since 2015
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maccuci&theme=tokyonight&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maccuci&theme=tokyonight&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maccuci&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maccuci&theme=dracula&show_icons=true">
+<img align="center" height="160em" style="padding-left: 100px;" src="https://github-readme-stats.vercel.app/api?username=maccuci&theme=dracula&hide=contribs,prs">
+<img heigth="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maccuci&theme=dracula&layout=compact">
+</div>
