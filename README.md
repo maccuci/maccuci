@@ -29,4 +29,5 @@ I'm a Backend Developer based in Brazil :brazil:.
 </div>
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maccuci&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maccuci&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maccuci&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
