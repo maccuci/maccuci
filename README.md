@@ -43,7 +43,7 @@ I'am a Backend Developer based in Brazil with expertise in programming languages
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   </div>
 </div>
-
+ 
 ### :fire: My Stats:
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maccuci&theme=dark)](https://git.io/streak-stats)
 
