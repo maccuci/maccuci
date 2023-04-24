@@ -30,6 +30,6 @@ I'm a Backend Developer based in Brazil :brazil:.
 
 ### :fire: My Stats:
 <div style="display: flex; flex-direction">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maccuci&theme=dark)](https://git.io/streak-stats)
+<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maccuci&theme=dark)](https://git.io/streak-stats)</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maccuci&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
