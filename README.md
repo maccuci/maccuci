@@ -13,7 +13,7 @@
 
 ### :desktop_computer: About Me
 <div>
-I'm a Backend Developer based in Brazil :brazil:.
+I'm a Backend Developer based in Brazil :brazil:
 </div>
 
 ### :hammer_and_wrench: My Languages & Tools:
