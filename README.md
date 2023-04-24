@@ -20,7 +20,7 @@ I'am a Backend Developer based in Brazil with expertise in programming languages
 </div>
 
 ### :hammer_and_wrench: My Languages & Tools:
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <div>
     <h3>Backend</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
