@@ -20,8 +20,8 @@ I'am a Backend Developer based in Brazil with expertise in programming languages
 </div>
 
 ### :hammer_and_wrench: My Languages & Tools:
-<div style="display: flex; justify-content: center;">
-  <div>
+<div style="display: inline-block; justify-content: center;">
+  <div style="display: inline-block;">
     <h3>Backend</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
