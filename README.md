@@ -3,6 +3,9 @@
   <a href="https://twitter.com/maccuci">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.youtube.com/channel/UCSfQXgnG4UGP5hW1x0SKS0g">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=maccuci&style=flat-square&color=blue" alt=""/>
 <h1>
