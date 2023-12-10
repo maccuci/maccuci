@@ -16,7 +16,7 @@
 
 ### :desktop_computer: About Me
 <div align="center">
-I'am a Backend Developer based in Brazil with expertise in programming languages such as Java, JavaScript, TypeScript and C. With a passion for software development and a commitment to quality I am dedicated to building scalable and efficient solutions for complex problems. My experience includes developing web applications ap is and database systems for various industries.
+I'am a Backend Developer based in Brazil with expertise in programming languages such as Java, JavaScript, TypeScript and learning Rust. With a passion for software development and a commitment to quality I am dedicated to building scalable and efficient solutions for complex problems. My experience includes developing web applications ap is and database systems for various industries.
 </div>
 
 ### :hammer_and_wrench: My Languages & Tools:
@@ -27,13 +27,14 @@ I'am a Backend Developer based in Brazil with expertise in programming languages
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   </div>
   <div>
     <h3>Frontend</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   </div>
   <div>
