@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="badges">
-  <p style="font-size: 22px;">You can find me in </p>
+  <p style="font-size: 26px;">You can find me in </p>
   <a href="https://twitter.com/maccuci">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
