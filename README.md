@@ -43,5 +43,5 @@ I'am a Backend Developer based in Brazil with expertise in programming languages
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   </div>
 </div>
-
+<br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maccuci&layout=compact&theme=neon&langs_count=8&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
