@@ -45,6 +45,6 @@ I'am a Backend Developer based in Brazil with expertise in programming languages
 </div>
  
 ### :fire: My Stats:
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maccuci&theme=shades-of-purple)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maccuci&theme=neon)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maccuci&layout=compact&theme=shades-of-purple&langs_count=8&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maccuci&layout=compact&theme=neon&langs_count=8&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
