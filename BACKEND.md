@@ -16,7 +16,7 @@ A simple project dedicated to my course of Software Engineering. It's a petshop 
 ### 4. [rubster-bc-test](https://github.com/maccuci/rubster-bc-test)
 A simple backend application dedicated a learn more of Rust, and the world of Blockchain. This version is a test for the final version, that will be a full blockchain application.
 
-### 5.[Astra Notepad](https://github.com/maccuci/astra-notepad)
+### 5. [Astra Notepad](https://github.com/maccuci/astra-notepad)
 A simple notepad application, built with T3 App, ReactJS, Typescript, DaisyUI, Prisma and Zod. Today is a deprecated project.
 
 ### 6. [rChat](https://github.com/maccuci/rchat)
