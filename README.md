@@ -16,7 +16,7 @@
 
 ### :desktop_computer: About Me
 <div align="center">
-I'am a Backend Developer based in Brazil with expertise in programming languages such as Java, JavaScript, TypeScript and learning Rust. With a passion for software development and a commitment to quality I am dedicated to building scalable and efficient solutions for complex problems. My experience includes developing web applications ap is and database systems for various industries.
+I'am a Backend Developer based in Brazil with expertise in programming languages such as Java, JavaScript, TypeScript, Python and learning Rust. With a passion for software development and a commitment to quality I am dedicated to building scalable and efficient solutions for complex problems. My experience includes developing web applications ap is and database systems for various industries.
 </div>
 
 ### :hammer_and_wrench: My Languages & Tools:
