@@ -17,7 +17,7 @@
 
 ### About Me
 <div align="center">
-  <p style="font-size: 16px;">Hey there! My name is Antônio Gabriel and I'm a FullStack Developer, Software Engineer, and hopeful Data Analyst based in Brazil. I dig coding in Java, JavaScript, TypeScript, Python, and dabbling in Rust (and I love it!).</p>
+  <p style="font-size: 16px;">Hey there! My name is Antônio Gabriel and I'm a FullStack Developer, Software Engineer, and hopeful Data Analyst based in Brazil. I dig coding in Java, JavaScript, TypeScript, Python. And I learning Rust and Elixir.</p>
 </div>
 
  ### 🚀 Projects
