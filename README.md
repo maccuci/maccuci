@@ -31,7 +31,7 @@ Check out my projects organized by category:
 </div>
 <br/>
 <div>
-You can see later my personal open-sources projects:
+You can see later my personal documentations and open-source projects:
   
 - [NBA Discord Bot](https://github.com/maccuci/nba-bot-public)
 - [Second Wallet](https://github.com/maccuci/second-wallet-public)
