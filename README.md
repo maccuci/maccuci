@@ -33,6 +33,6 @@ Check out my projects organized by category:
 <div>
 You can see later my personal documentations and open-source projects:
   
-- [NBA Discord Bot](https://github.com/maccuci/nba-bot-public)
-- [Second Wallet](https://github.com/maccuci/second-wallet-public)
+- [NBA Discord Bot](https://github.com/maccuci/nba-bot-public) (Documentation)
+- [Second Wallet](https://github.com/maccuci/second-wallet-public) (Early Project)
 </div>
