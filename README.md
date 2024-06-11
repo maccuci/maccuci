@@ -24,8 +24,15 @@
 Check out my projects organized by category:
 <div>
   
-- [Backend Projects](./BACKEND.md)
-- [Frontend Projects](./FRONTEND.md)
-- [Data Analyst Projects](./DATA_ANALYST.md)
-- [DevOps Projects](./DEVOPS.md)
+- [Backend](./BACKEND.md)
+- [Frontend](./FRONTEND.md)
+- [Data Analyst](./DATA_ANALYST.md)
+- [DevOps](./DEVOPS.md)
+</div>
+<br/>
+<div>
+You can see later my personal open-sources projects:
+  
+- [NBA Discord Bot](https://github.com/maccuci/nba-bot-public)
+- [Second Wallet](https://github.com/maccuci/second-wallet-public)
 </div>
