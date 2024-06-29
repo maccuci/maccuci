@@ -36,4 +36,5 @@ You can see later my almost personal documentations and open-source projects:
   
 - [NBA Discord Bot](https://github.com/maccuci/nba-bot-public) (Documentation)
 - [Second Wallet](https://github.com/maccuci/second-wallet-public) (Early Project)
+- [WhatsApp ChatBot](https://github.com/maccuci/chatbot-faculdade) (Unreleased Project from my College)
 </div>
