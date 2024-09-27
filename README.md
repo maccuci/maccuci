@@ -17,7 +17,7 @@
 
 ### About Me
 <div align="center">
-  <p style="font-size: 16px;">I'm a Software Engineer. I enjoy coding in Java, JavaScript, TypeScript, and Python. Currently, I'm learning Rust (I guess), and improving my English level.</p>
+  <p style="font-size: 16px;">I'm a Software Engineer. I enjoy coding in Java, JavaScript, TypeScript, and Python. Currently, I'm learning Web3 (focused on Solidity & Ethereum), and improving my English level.</p>
 More details in my <a href="https://bento.me/maccuci" target="_blank">Bento</a>
 </div>
 
