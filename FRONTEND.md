@@ -16,5 +16,5 @@ A simple landing page for my new SaaS project for create and generate static pag
 ### 4. [Second Wallet](https://github.com/maccuci/) PRIVATE
 Landing page for my next SaaS project for you control your finances & more.
 
-### 5. [LogInfo Forum](https://github.com/maccuci/tiphy](https://loginfo-forum.vercel.app/) DEPRECATED
+### 5. [LogInfo Forum](https://loginfo-forum.vercel.app/) DEPRECATED
 Responsive and modern forum design.
