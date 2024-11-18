@@ -20,4 +20,13 @@ A simple backend application dedicated a learn more of Rust, and the world of Bl
 A simple notepad application, built with T3 App, ReactJS, Typescript, DaisyUI, Prisma and Zod. Today is a deprecated project.
 
 ### 6. [rChat](https://github.com/maccuci/rchat)
-The project using the ``openai-api-rs`` crate, a simple chatbot that uses the OpenAI API to generate responses. 
+The project using the ``openai-api-rs`` crate, a simple chatbot that uses the OpenAI API to generate responses.
+
+### 7. [Vejaseu.pet](https://github.com/maccuci/) PRIVATE
+Using Typescript ecosystem (React, Next and others frameworks/apis).
+
+### 8. [Second Wallet](https://github.com/maccuci/) PRIVATE
+Using Typescript ecosystem (React, Next and others frameworks/apis), Expo and React Native for built the entire app.
+
+### 9. [LogInfo Forum](https://github.com/maccuci/) DEPRECATED
+Using Typescript ecosystem (React, Next and others frameworks/apis) for create a powerfull backend system for the forum.
