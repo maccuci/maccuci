@@ -17,7 +17,7 @@
 
 ### About Me
 <div align="center">
-  <p style="font-size: 16px;">I'm a Software Engineer. I enjoy coding in Java, JavaScript, TypeScript, and Python. Currently, I'm learning Web3 (focused on Solidity & Ethereum), and improving my English level.</p>
+  <p style="font-size: 16px;">I'm a Software Engineer, and I uses Java, TypeScript, and Python. Currently, I'm improving my English level and other things</p>
 </div>
 
  ### 🚀 Projects
